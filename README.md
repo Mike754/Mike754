@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... (N/A)
 - 📫 How to reach me ... croftm4@mcmaster.ca
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: I am a first year undergrad at McMaster Univeristy, and I've just started to learn how to coide these past few months. I used to hate it LOL but after being forced to
+- ⚡ Fun fact: I am a first year undergrad at McMaster Univeristy, and I've just started to learn how to code these past few months. I used to hate it LOL but after being forced to
 use it every day it's grown on me! 
 
 <!---
